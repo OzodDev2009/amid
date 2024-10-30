@@ -1062,7 +1062,7 @@ main {
 
 footer {
     background: #E9FBF9;
-    height: 612px;
+    height: 615px;
 
     @media (max-width:600px) {
         height: 760px;
@@ -1192,7 +1192,7 @@ footer {
     .footer__finish {
         background: #124F48;
         height: 60px;
-        margin-top: 125px;
+        margin-top: 130px;
 
         @media (max-width:1100px) {
             margin-top: 30px;
@@ -1226,6 +1226,7 @@ footer {
                     width: 18px;
                     height: 18px;
                     color: #FFFFFF82;
+                    cursor: pointer;
                     transition: .2s linear;
                 }
                 

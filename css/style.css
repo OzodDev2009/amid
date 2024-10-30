@@ -1013,7 +1013,7 @@ main .humans .humans__info:hover {
 
 footer {
   background: #E9FBF9;
-  height: 612px;
+  height: 615px;
 }
 @media (max-width: 600px) {
   footer {
@@ -1128,7 +1128,7 @@ footer .footer__content .footer__nav .footer__info3 ul li a {
 footer .footer__finish {
   background: #124F48;
   height: 60px;
-  margin-top: 125px;
+  margin-top: 130px;
 }
 @media (max-width: 1100px) {
   footer .footer__finish {
@@ -1161,6 +1161,7 @@ footer .footer__finish .footer__finish-info .footer__icons i {
   width: 18px;
   height: 18px;
   color: rgba(255, 255, 255, 0.5098039216);
+  cursor: pointer;
   transition: 0.2s linear;
 }
 footer .footer__finish .footer__finish-info .footer__icons i:hover {
